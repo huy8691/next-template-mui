@@ -1,0 +1,9 @@
+@import 'styles/colors.scss';
+.registerContainer {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 420px;
+  margin-right: auto;
+}
